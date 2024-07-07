@@ -50,4 +50,4 @@ Pandas
 Plotly
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MEHRAN-DEV-AI/BILLIONAIRES-2024-ANALYSIS/blob/main/LICENSE) file for details.
