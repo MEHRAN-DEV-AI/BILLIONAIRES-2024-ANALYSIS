@@ -1,7 +1,7 @@
 # BILLIONAIRES-2024-ANALYSIS
 
 # Direct Access To The Notebook
-[CLICK HERE]() TO SEE THE NOTEBOOK DIRECTLY.
+[CLICK HERE](https://nbviewer.org/github/MEHRAN-DEV-AI/BILLIONAIRES-2024-ANALYSIS/blob/main/BILLIONAIRE%202024%20ANALYSIS%20.ipynb) TO SEE THE NOTEBOOK DIRECTLY.
 
 # Overview
  This repository contains analysis and visualizations based on a dataset of billionaires, focusing on attributes such as rank, company, executive names, net worth, and country.
